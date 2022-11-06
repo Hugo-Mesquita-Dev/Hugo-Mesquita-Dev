@@ -24,8 +24,7 @@ No momento sou Desenvolvedor Flutter Jr na Ília.<br>Busco apoiar e aprender mai
 ---
 [![](https://visitcount.itsvg.in/api?id=Hugo-Mesquita-Dev&icon=2&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/h-otavio1@hotmail.com) 
+ 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
