@@ -1,5 +1,5 @@
 # 💫 About Me:
-No momento sou Desenvolvedor Flutter Jr na Ília.<br>Busco apoiar e aprender mais sobre Java e Dart.<br>Atualmente desenvolvo projetos com Framework Flutter.<br>iniciei carreira como Back-End Java. <br>Sou uma Pessoa com Deficiência Auditiva.
+No momento sou Analista Back-End Jr no Itaú.<br>Busco apoiar e aprender mais sobre Java, AWS, Flutter.<br>Atualmente desenvolvo projetos com AWS, Banco de Dados e Imigração de dados para AWS.<br>iniciei carreira como Back-End Java Jr na Ília e tenho experiência como Desenvolvedor FLutter Jr na Ília. <br>Sou uma Pessoa com Deficiência Auditiva.
 
 
 ## 🌐 Socials:
